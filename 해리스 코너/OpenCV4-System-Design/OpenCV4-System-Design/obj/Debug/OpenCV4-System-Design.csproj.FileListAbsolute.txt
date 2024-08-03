@@ -1,0 +1,364 @@
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\Tech University of Korea\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\System Design\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\채널분리 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\아핀 변환 코드\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 확대, 축소\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 크기 조절\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\이미지 흐림 효과\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\캐니 엣지\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\컨투어 드로우\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCV4-System-Design.pdb
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.dll
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\OpenCvSharp.Extensions.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Buffers.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Drawing.Common.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Memory.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Numerics.Vectors.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\bin\Debug\System.ValueTuple.xml
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.SuggestedBindingRedirects.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe.config
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Form1.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4_System_Design.Properties.Resources.resources
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.GenerateResource.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.csproj.CopyComplete
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.exe
+C:\JHIWHOON_ws\_Tech University of Korea\LAB\2023 시스템설계 교과목 개발\_강의자료\개정 강의자료\최종\해리스 코너\OpenCV4-System-Design\OpenCV4-System-Design\obj\Debug\OpenCV4-System-Design.pdb

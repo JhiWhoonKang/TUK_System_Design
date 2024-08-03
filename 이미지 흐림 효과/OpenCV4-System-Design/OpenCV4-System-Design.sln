@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV4-System-Design", "OpenCV4-System-Design\OpenCV4-System-Design.csproj", "{FC1E2708-5C85-4277-B582-3D4772A97401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1E2708-5C85-4277-B582-3D4772A97401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1E2708-5C85-4277-B582-3D4772A97401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1E2708-5C85-4277-B582-3D4772A97401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1E2708-5C85-4277-B582-3D4772A97401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A09DF7A-9C22-425C-94C1-1F70F68845B5}
+	EndGlobalSection
+EndGlobal
