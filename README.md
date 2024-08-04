@@ -21,17 +21,61 @@
 
 사용 중 오류가 발생할 경우 kangjw0914@naver.com 또는 1208cksals@naver.com 그리고 Issues를 활용해주시길 바랍니다.
 
-# 강의 참고자료 관련
-## 강의 참고자료 사용 방법
+## 목차
+[강의 참고자료 관련](#강의-참고자료-관련)  
+[1. 강의 참고자료 사용 방법](#강의-참고자료-사용-방법)  
+[2. C#](#csharp)  
+[3. OpenCV](#opencv)  
+[4. Stage UI](#stage-ui)  
+
+
+## 강의 참고자료 관련
+<div align="right">  
+  
+[목차로](#목차)
+
+</div>
+
+### 강의 참고자료 사용 방법
 1. 우측 상단(About 옆)의 ***<> Code***를 클릭
 2. ***Download ZIP*** 클릭
+<div align="right">  
+  
+[목차로](#목차)
 
-## 강의 참고 자료 상세 설명
+</div>
+
+### 강의 참고 자료 상세 설명
+#### CSharp
+
+#### OpenCV
+개발 환경
+|구성 요소|상세 스펙(Spec)|
+|---|---|
+|운영체제(OS)|**Windows11**|
+|IDE|**Visual Studio 2022**|
+|Framework|**Windows Forms**|
+|Nuget|**OpenCvSharp<br>OpenCvSharp.Extensions<br>OpenCvSharp.runtime.win**|
+
 - 파일명은 강의자료 000코드 실습에서 000 입니다.
 - 리소스에 이미지가 없을 경우 gibhub>image에 들어가면 강의에 사용했떤 모든 이미지가 들어가 있습니다. 이미지명을 확인하고 추가하면 됩니다.
 - 프로그램 실행은 실습 폴더를 들어간 뒤 ***OpenCV4-System-Design.sln***을 실행하면 됩니다.
+<div align="right">  
+  
+[목차로](#목차)
 
-# WSL이 필요한 경우
+</div>
+
+#### Stage UI
+<div align="right">  
+  
+[목차로](#목차)
+
+</div>
+
+## WSL이 필요한 경우
+*러닝이 된 모델을 다운로드 받을 때 Linux를 요구하는 경우가 존재<br>이를 위해 WSL을 활용하는 방법 소개*
+
 1. 관리자 권한으로 powershell 실행
 2. 아래 명령어 입력
 ```bash
@@ -152,7 +196,7 @@ Codename:       focal
 *해당 조건을 충족하지 못하는 경우*
 *https://learn.microsoft.com/ko-kr/windows/wsl/install-manual*
 
-## 모델 불러오는 과정 예시
+### 모델 불러오는 과정 예시
 *학습된 모델 불러오는 것을 권장*
 **ssd_mobilenet_v1_coco 모델을 다운로드하고 사용하는 예제**
 
@@ -243,3 +287,10 @@ jhiwhoon@JhiWhoon:~$ find ~ -name "*.pb"
 /home/jhiwhoon/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb
 /home/jhiwhoon/ssd_mobilenet_v1_coco_2017_11_17/saved_model/saved_model.pb
 ```
+
+<div align="right">  
+  
+[목차로](#목차)
+
+</div>
+
