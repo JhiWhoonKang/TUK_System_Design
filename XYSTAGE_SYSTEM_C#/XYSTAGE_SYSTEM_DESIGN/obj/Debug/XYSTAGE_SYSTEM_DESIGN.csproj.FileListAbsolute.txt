@@ -1,0 +1,64 @@
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.AssemblyReference.cache
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.SuggestedBindingRedirects.cache
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Form1.resources
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Properties.Resources.resources
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.GenerateResource.cache
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.CoreCompileInputs.cache
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.exe.config
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.exe
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.pdb
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\TwinCAT.Ads.dll
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\TwinCAT.Ads.xml
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.CopyComplete
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.exe
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.pdb
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.xml
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.dll.config
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kcm\source\repos\XYSTAGE_SYSTEM_DESIGN\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Vision.resources
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.exe.config
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.exe
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.pdb
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\TwinCAT.Ads.dll
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.xml
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.dll.config
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\bin\Debug\TwinCAT.Ads.xml
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.AssemblyReference.cache
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Form1.resources
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Properties.Resources.resources
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Vision.resources
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.GenerateResource.cache
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.CopyComplete
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.exe
+C:\Users\test\Documents\카카오톡 받은 파일\XYSTAGE_SYSTEM_DESIGN 수정본\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.pdb
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.exe.config
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.exe
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\XYSTAGE_SYSTEM_DESIGN.pdb
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.xml
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.dll.config
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\TwinCAT.Ads.xml
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Form1.resources
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Properties.Resources.resources
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.Vision.resources
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.GenerateResource.cache
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_.C7E66FFA.Up2Date
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.exe
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\obj\Debug\XYSTAGE_SYSTEM_DESIGN.pdb
+C:\Users\A\Desktop\시스템설계_일\XYSTAGE_SYSTEM_C#\XYSTAGE_SYSTEM_DESIGN\bin\Debug\TwinCAT.Ads.dll
