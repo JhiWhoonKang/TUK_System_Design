@@ -59,25 +59,5 @@ namespace OpenCV4_System_Design.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        internal static System.Drawing.Bitmap affine {
-            get {
-                object obj = ResourceManager.GetObject("affine", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        internal static System.Drawing.Bitmap RGB_Image {
-            get {
-                object obj = ResourceManager.GetObject("RGB_Image", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

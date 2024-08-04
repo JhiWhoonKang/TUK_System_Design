@@ -16,12 +16,52 @@ namespace OpenCV4_System_Design
         // 프레임 처리 상태 플래그
         private bool _isRunning;
         // Tensorflow 모델 파일 경로
-        private string PATH_MODEL = "C:\\JHIWHOON_ws\\_Tech University of Korea\\LAB\\_2023 시스템설계 교과목 개발\\_강의자료\\개정 강의자료\\최종\\OpenCV\\tensorflow\\tensorflow_model\\frozen_inference_graph.pb";
+        private string PATH_MODEL = "frozen_inference_graph.pb";
         // Tensorflow 구성 파일 경로
-        private string PATH_CONFIG = "C:\\JHIWHOON_ws\\_Tech University of Korea\\LAB\\_2023 시스템설계 교과목 개발\\_강의자료\\개정 강의자료\\최종\\OpenCV\\tensorflow\\tensorflow_model\\graph.pbtxt";
-        // 클래스 이름을 저장하는 배열
-        private string[] CLASS_NAME = File.ReadAllLines("labelmap.txt");
+        private string PATH_CONFIG = "graph.pbtxt";
+        // Labelmap 파일 경로
+        private string PATH_LABELMAP = "hi.txt";
 
+        private void ConvertPbtxtToLabelmap(string pbtxtPath, string labelmapPath)
+        {
+            var lines = File.ReadAllLines(pbtxtPath);
+            using (var writer = new StreamWriter(labelmapPath))
+            {
+                bool inItem = false;
+                string id = null;
+                string displayName = null;
+
+                foreach (var line in lines)
+                {
+                    if (line.Contains("item {"))
+                    {
+                        inItem = true;
+                        id = null;
+                        displayName = null;
+                    }
+                    else if (line.Contains("}"))
+                    {
+                        inItem = false;
+                        if (id != null && displayName != null)
+                        {
+                            writer.WriteLine($"{id}:{displayName}");
+                        }
+                    }
+                    else if (inItem)
+                    {
+                        if (line.Contains("id:"))
+                        {
+                            id = line.Split(':')[1].Trim();
+                        }
+                        else if (line.Contains("display_name:"))
+                        {
+                            displayName = line.Split(':')[1].Trim().Replace("\"", "");
+                        }
+                    }
+                }
+            }
+
+        }
         public Form1()
         {
             InitializeComponent();
@@ -29,6 +69,9 @@ namespace OpenCV4_System_Design
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // pbtxt 파일을 labelmap.txt 파일로 변환
+            ConvertPbtxtToLabelmap(PATH_CONFIG, PATH_LABELMAP);
+
             // TensorFlow 모델과 구성 파일을 사용하여 신경망을 로드
             NET = CvDnn.ReadNetFromTensorflow(PATH_MODEL, PATH_CONFIG);
 
@@ -127,7 +170,7 @@ namespace OpenCV4_System_Design
                     Cv2.Rectangle(frame, new OpenCvSharp.Point(left, top), new OpenCvSharp.Point(right, bottom), Scalar.Red, 2);
 
                     // 클래스 이름과 신뢰도 레이블 생성
-                    string label = $"{CLASS_NAME[classId]}: {confidence * 100:0.00}%";
+                    string label = $"{PATH_LABELMAP[classId]}: {confidence * 100:0.00}%";
 
                     // 프레임에 레이블 그리기
                     Cv2.PutText(frame, label, new OpenCvSharp.Point(left, top - 10), HersheyFonts.HersheySimplex, 0.5, Scalar.Red, 2);
