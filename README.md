@@ -37,8 +37,9 @@
 </div>
 
 ### 강의 참고자료 사용 방법
-1. 우측 상단(About 옆)의 ***<> Code***를 클릭
+1. 우측 상단(About 옆)의 초록색 박스 ***<> Code***를 클릭
 2. ***Download ZIP*** 클릭
+<br>**중요: 절대 main branch를 수정하지 않습니다. 본 자료는 ZIP 파일로 다운 받은 후 실습 PC 또는 개별 PC에서 실습 및 수정을 할 것을 권합니다.**
 <div align="right">  
   
 [목차로](#목차)
@@ -67,6 +68,13 @@
 </div>
 
 #### Stage UI
+개발 환경
+|구성 요소|상세 스펙(Spec)|
+|---|---|
+|운영체제(OS)|**Windows11**|
+|IDE|**Visual Studio 2022**|
+|Framework|**Windows Forms**|
+|Nuget|**OpenCvSharp<br>OpenCvSharp.Extensions<br>OpenCvSharp.runtime.win**|
 <div align="right">  
   
 [목차로](#목차)
@@ -118,7 +126,7 @@ PS C:\WINDOWS\system32> wsl --list --online
     openSUSE-Tumbleweed                    openSUSE Tumbleweed
 ```
 5-1. MS Store에서 원하는 버전의 ubuntu 설치
-필자: ***Ubuntu 20.04.6 LTS*** 설치
+<br>필자: ***Ubuntu 20.04.6 LTS*** 설치
 유효한 배포판일 경우 다른 버전도 가능
 
 5-2. 또는 명령어를 통해 설치 가능
