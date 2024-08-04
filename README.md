@@ -148,20 +148,29 @@ Release:        20.04
 Codename:       focal
 ```
 
-*조건: Windows 10 버전 2004 이상(빌드 19041 이상) 또는 Windows 11
-해당 조건을 충족하지 못하는 경우 
-https://learn.microsoft.com/ko-kr/windows/wsl/install-manual
-참고
+**조건: Windows 10 버전 2004 이상(빌드 19041 이상) 또는 Windows 11**
+*해당 조건을 충족하지 못하는 경우*
+*https://learn.microsoft.com/ko-kr/windows/wsl/install-manual*
 
---
-ssd_mobilenet_v1_coco 모델을 다운로드하고 사용하는 예제
+## 모델 불러오는 과정 예시
+*학습된 모델 불러오는 것을 권장*
+**ssd_mobilenet_v1_coco 모델을 다운로드하고 사용하는 예제**
 
 1. 원하는 모델 사이트 접속
-2. https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
+```bash
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
+```
 필자는 위 사이트에서 다운로드한 상황
-3. 다운로드 링크 확인
+
+2. 원하는 모델 다운로드 링크 확인
+```bash
 http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz
-4. 
+```
+3. WSL을 실행하여 아래 명령어 입력(위 WSL이 준비되어 있다는 가정)
+```bash
+wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz
+```
+```bash
 jhiwhoon@JhiWhoon:~$ wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz
 --2024-08-04 18:05:01--  http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz
 Resolving download.tensorflow.org (download.tensorflow.org)... 34.64.4.27, 34.64.4.91, 34.64.4.59, ...
@@ -173,7 +182,12 @@ Saving to: ‘ssd_mobilenet_v1_coco_2018_01_28.tar.gz’
 ssd_mobilenet_v1_coco_2018_01 100%[=================================================>]  73.00M  10.6MB/s    in 7.4s
 
 2024-08-04 18:05:09 (9.84 MB/s) - ‘ssd_mobilenet_v1_coco_2018_01_28.tar.gz’ saved [76541073/76541073]
-5. 압축 해제
+```
+4. 압축 해제를 위해 아래 명령어 입력
+```bash
+tar -xzvf ssd_mobilenet_v1_coco_2018_01_28.tar.gz
+```
+```bash
 jhiwhoon@JhiWhoon:~$ tar -xzvf ssd_mobilenet_v1_coco_2018_01_28.tar.gz
 ssd_mobilenet_v1_coco_2018_01_28/
 ssd_mobilenet_v1_coco_2018_01_28/model.ckpt.index
@@ -185,21 +199,47 @@ ssd_mobilenet_v1_coco_2018_01_28/saved_model/
 ssd_mobilenet_v1_coco_2018_01_28/saved_model/saved_model.pb
 ssd_mobilenet_v1_coco_2018_01_28/saved_model/variables/
 ssd_mobilenet_v1_coco_2018_01_28/frozen_inference_graph.pb
+````
 6. 디렉토리 확인
+```bash
+ls
+```
+```bash
 jhiwhoon@JhiWhoon:~$ ls
 ssd_mobilenet_v1_coco_2018_01_28  ssd_mobilenet_v1_coco_2018_01_28.tar.gz
-7. 압축 해제한 디렉토리로 접속
+```
+7. cd 명령어 활용 압축 해제한 디렉토리로 이동
+*cd(Change Directory): 디렉토리 변경 명령어*
+```bash
+cd ~/<경로>
+```
+```bash
 jhiwhoon@JhiWhoon:~$ cd ~/ssd_mobilenet_v1_coco_2018_01_28/
-8. 설치된 파일 화긴
+```
+9. 디렉토리 확인
+```bash
+ls
+```
+```bash
 jhiwhoon@JhiWhoon:~/ssd_mobilenet_v1_coco_2018_01_28$ ls
 checkpoint                 model.ckpt.data-00000-of-00001  model.ckpt.meta  saved_model
 frozen_inference_graph.pb  model.ckpt.index                pipeline.config
-9. 아래 명령어로 파일 탐색기 가능
+```
+10. 파일 탐색기 탐색
+```bash
+explorer.exe .
+```
+```bash
 jhiwhoon@JhiWhoon:~/ssd_mobilenet_v1_coco_2018_01_28$ explorer.exe .
+```
 
-** 추가적인 기능
+***추가적인 기능***
+*특정 확장자 검색*
+```bash
+find ~ -name "*<확장자>"
+```
+```bash
 jhiwhoon@JhiWhoon:~$ find ~ -name "*.pb"
 /home/jhiwhoon/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb
 /home/jhiwhoon/ssd_mobilenet_v1_coco_2017_11_17/saved_model/saved_model.pb
-jhiwhoon@JhiWhoon:~$ cd ~/ssd_mobilenet_v1_coco_2017_11_17
-jhiwhoon@JhiWhoon:~/ssd_mobilenet_v1_coco_2017_11_17$ explorer.exe .
+```
