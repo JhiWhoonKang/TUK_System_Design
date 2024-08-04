@@ -20,58 +20,17 @@ namespace OpenCV4_System_Design
         // Tensorflow 구성 파일 경로
         private string PATH_CONFIG = "graph.pbtxt";
         // Labelmap 파일 경로
-        private string PATH_LABELMAP = "hi.txt";
+        private string PATH_LABELMAP = "labelmap.txt";
+        private string[] labels;
 
-        private void ConvertPbtxtToLabelmap(string pbtxtPath, string labelmapPath)
-        {
-            var lines = File.ReadAllLines(pbtxtPath);
-            using (var writer = new StreamWriter(labelmapPath))
-            {
-                bool inItem = false;
-                string id = null;
-                string displayName = null;
-
-                foreach (var line in lines)
-                {
-                    if (line.Contains("item {"))
-                    {
-                        inItem = true;
-                        id = null;
-                        displayName = null;
-                    }
-                    else if (line.Contains("}"))
-                    {
-                        inItem = false;
-                        if (id != null && displayName != null)
-                        {
-                            writer.WriteLine($"{id}:{displayName}");
-                        }
-                    }
-                    else if (inItem)
-                    {
-                        if (line.Contains("id:"))
-                        {
-                            id = line.Split(':')[1].Trim();
-                        }
-                        else if (line.Contains("display_name:"))
-                        {
-                            displayName = line.Split(':')[1].Trim().Replace("\"", "");
-                        }
-                    }
-                }
-            }
-
-        }
         public Form1()
         {
             InitializeComponent();
+            LoadLabels();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // pbtxt 파일을 labelmap.txt 파일로 변환
-            ConvertPbtxtToLabelmap(PATH_CONFIG, PATH_LABELMAP);
-
             // TensorFlow 모델과 구성 파일을 사용하여 신경망을 로드
             NET = CvDnn.ReadNetFromTensorflow(PATH_MODEL, PATH_CONFIG);
 
@@ -93,6 +52,18 @@ namespace OpenCV4_System_Design
             thread.Start();
         }
 
+        private void LoadLabels()
+        {
+            try
+            {
+                // 텍스트 파일에서 라벨을 읽어와 배열로 변환
+                labels = File.ReadAllLines(PATH_LABELMAP);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error reading label map file: {ex.Message}");
+            }
+        }
 
         private void ProcessFrame()
         {
@@ -142,11 +113,13 @@ namespace OpenCV4_System_Design
             }
         }
 
-
         private void ProcessDetections(Mat frame, Mat output)
         {
             // 신뢰도 임계값 설정
             float threshold = 0.5f;
+
+            // "person" 클래스의 인덱스 가져오기
+            int personClassId = Array.IndexOf(labels, "person");
 
             // 출력 결과의 각 감지 항목을 반복 처리
             for (int i = 0; i < output.Size(2); i++)
@@ -170,13 +143,21 @@ namespace OpenCV4_System_Design
                     Cv2.Rectangle(frame, new OpenCvSharp.Point(left, top), new OpenCvSharp.Point(right, bottom), Scalar.Red, 2);
 
                     // 클래스 이름과 신뢰도 레이블 생성
-                    string label = $"{PATH_LABELMAP[classId]}: {confidence * 100:0.00}%";
+                    string label = $"{labels[classId]}: {confidence * 100:0.00}%";
 
                     // 프레임에 레이블 그리기
                     Cv2.PutText(frame, label, new OpenCvSharp.Point(left, top - 10), HersheyFonts.HersheySimplex, 0.5, Scalar.Red, 2);
+
+                    // "person" 클래스가 80% 이상 신뢰도로 감지되면 메시지 박스 띄우기
+                    if (classId == personClassId && confidence > 0.8f)
+                    {
+                        MessageBox.Show("80% 이상 일치");
+                    }
                 }
+
             }
         }
+
 
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
