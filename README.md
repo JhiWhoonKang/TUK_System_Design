@@ -86,7 +86,7 @@
 
 1. 관리자 권한으로 powershell 실행
 2. 아래 명령어 입력
-```bash
+```basj
 wsl --install
 ```
 ```bash
