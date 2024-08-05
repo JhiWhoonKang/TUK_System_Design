@@ -139,7 +139,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
         #endregion
 
         #region Set Position, Velocity , Acceleration , Deceleration
-        public void SetPos(int pos)
+        public void SetPos(double pos)
         {
             if (IsConnect)
             {

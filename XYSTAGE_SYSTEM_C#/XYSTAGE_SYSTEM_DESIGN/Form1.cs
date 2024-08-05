@@ -148,7 +148,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
                     draw_feedflag_first = 1;
                 }
                 
-                if (rb_Line.Checked&& !rb_CP.Checked && !rb_PM.Checked&&!rb_PTP.Checked)   // Line 모드 일때 
+                if (rb_PTP.Checked)   // Line 모드 일때 
                 {
                     //1. user 지정 좌표, stage 좌표 list에 저장
                     string Point_display = "[" + user_point.X.ToString() + "," + user_point.Y.ToString() + "]";
@@ -168,23 +168,8 @@ namespace XYSTAGE_SYSTEM_DESIGN
 
                     if ((User_Tasks.Get_Count_AxisParalist() == Move_num) && !rb_CP.Checked && !rb_PM.Checked) //5개 찍으면 동작
                     {         
-                        Thread Line_thread = new Thread(new ThreadStart(Line_Function));
-                        Line_thread.Start();      
-                    }
-                }
-
-                else if(rb_PTP.Checked)
-                {
-                    string Point_display = "[" + user_point.X.ToString() + "," + user_point.Y.ToString() + "]";
-                    g.DrawString(Point_display, Font, Brushes.Blue, Mouse_Point.X - 23, Mouse_Point.Y + 12);
-                    User_Tasks.RegistAxisPara(user_point.X, user_point.Y, x_vel, y_vel, x_acc, y_acc, x_dec, y_dec);
-
-                    g.FillRectangle(Brushes.Green, new Rectangle(Mouse_Point.X - 3, Mouse_Point.Y - 3, 6, 6));
-
-                    if ((User_Tasks.Get_Count_AxisParalist() == 2) && !rb_CP.Checked && !rb_PM.Checked) 
-                    {
                         Thread PTP_thread = new Thread(new ThreadStart(Line_Function));
-                        PTP_thread.Start();
+                        PTP_thread.Start();      
                     }
                 }
 
@@ -240,6 +225,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
                             , Convert.ToInt32((y_MaxPos / client_stage.Height) * (posy - Margin)), x_vel, y_vel, x_acc, y_acc, x_dec, y_dec);               
 
                     }
+                    User_Tasks.RegistAxisPara(User_Tasks.Get_IndexVlaue_XPos_AxisParalist(0), User_Tasks.Get_IndexVlaue_YPos_AxisParalist(0), x_vel, y_vel, x_acc, y_acc, x_dec, y_dec);
                     first_pos = PM_point_list[0];
                     fist_pos2Stage.X = User_Tasks.Get_IndexVlaue_XPos_AxisParalist(0);
                     fist_pos2Stage.Y = User_Tasks.Get_IndexVlaue_YPos_AxisParalist(0);
@@ -260,13 +246,13 @@ namespace XYSTAGE_SYSTEM_DESIGN
 
                     Thread.Sleep(500);
 
-                    Thread PTP_thread = new Thread(new ThreadStart(Line_Function));
-                    PTP_thread.Start();
+                    Thread PM_thread = new Thread(new ThreadStart(Line_Function));
+                    PM_thread.Start();
 
-                    tb_PM_num.Enabled = false;
-                    tb_PM_radius.Enabled = false;
-                    bt_PM_numSet.Enabled = false;
-                    bt_PM_radiusSet.Enabled = false;
+                    //tb_PM_num.Enabled = false;
+                    //tb_PM_radius.Enabled = false;
+                    //bt_PM_numSet.Enabled = false;
+                    //bt_PM_radiusSet.Enabled = false;
                 }
             }
             else
@@ -288,8 +274,9 @@ namespace XYSTAGE_SYSTEM_DESIGN
             {
                 if (Ads.IsConnected)
                 {
-                    XAxis = new CTwincat(Ads, 0); // 0 은 x축
                     YAxis = new CTwincat(Ads, 1); // 1 은 y축
+                    XAxis = new CTwincat(Ads, 0); // 0 은 x축
+                    
 
                     XAxis.SetAxisHandler();
                     YAxis.SetAxisHandler();
@@ -370,6 +357,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
         private void CP_Function()
         {
             double radian = 0;
+            angle = 0;
             int posx;
             int posy;
             draw_feedflag = 1;
@@ -384,6 +372,14 @@ namespace XYSTAGE_SYSTEM_DESIGN
                 int x = Convert.ToInt32((x_MaxPos / client_stage.Width) * (client_home.X - posx));
                 int y = Convert.ToInt32((y_MaxPos / client_stage.Height) * (posy - Margin));
 
+                if(x < 0 || x > x_MaxPos || y < 0 || y > y_MaxPos)
+                {
+
+                    User_Tasks.Clear_AxisParalist();
+                    MessageBox.Show("스테이지를 벗어난 좌표입니다.", "위치 지정 오류",
+             MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    break;
+                }
                 User_Tasks.RegistAxisPara(x,y, x_vel, y_vel, x_acc, y_acc, x_dec, y_dec);
             }
 
@@ -549,8 +545,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
 
         private void bt_stop_Click(object sender, EventArgs e)
         {
-            
-
+           
             thread_flag = 1;
       
         }
@@ -630,29 +625,33 @@ namespace XYSTAGE_SYSTEM_DESIGN
         private void bt_xEstop_Click(object sender, EventArgs e)
         {
             XAxis.X_STOP();
-
-            bt_xEstop_Clr.BackColor = Color.Yellow;
+            
+            bt_xEstop_Clr.ForeColor = Color.Red;
             
         }
 
         private void bt_yEstop_Click(object sender, EventArgs e)
         {
             YAxis.Y_STOP();
-
-            bt_yEstop_Clr.BackColor = Color.Yellow;
+           
+            bt_yEstop_Clr.ForeColor = Color.Red;
             
         }
 
         private void bt_xEstop_Clr_Click(object sender, EventArgs e)
         {
-             bt_xEstop_Clr.BackColor = Color.Silver;
-             XAxis.X_STOP_Clr();       
+            bt_xEstop_Clr.ForeColor = Color.Black ;
+             XAxis.X_STOP_Clr();
+            User_Tasks.Clear_AxisParalist();
+            draw_feedflag = 0;
         }
 
         private void bt_yEstop_Clr_Click(object sender, EventArgs e)
         {
-                bt_yEstop_Clr.BackColor = Color.Silver;
+                bt_yEstop_Clr.ForeColor = Color.Black;
                 YAxis.Y_STOP_Clr();
+            User_Tasks.Clear_AxisParalist();
+            draw_feedflag = 0;
         }
 
    

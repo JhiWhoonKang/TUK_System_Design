@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using OpenCvSharp;
@@ -48,11 +49,8 @@ namespace XYSTAGE_SYSTEM_DESIGN
         {
             try
             {
-                MessageBox.Show("ss");
-       //         templit_image = new IplImage("../../../templit.png");
                 capture = CvCapture.FromCamera(CaptureDevice.DShow, 1);
-              //  capture.SetCaptureProperty(CaptureProperty.FrameWidth, 605);
-                //capture.SetCaptureProperty(CaptureProperty.FrameHeight,  411);
+
                 timer1.Enabled = true;
             }
             catch { }
@@ -137,16 +135,25 @@ namespace XYSTAGE_SYSTEM_DESIGN
         private void bt_Move_Click(object sender, EventArgs e)
         {
 
-            for(int xpos=0;xpos<=150;xpos++)
+             Thread vision_thread = new Thread(new ThreadStart(vision_move));
+            vision_thread.Start();
+
+
+
+        }
+
+        void vision_move()
+        {
+            for (int xpos = 0; xpos <= 150; xpos++)
             {
                 if (flag == 0)
                 {
                     for (int ypos = 0; ypos <= 150; ypos++)
                     {
-          
+
                         Form1.XAxis.SetPos(xpos);
-                       Form1. XAxis.SetVel(100);
-                       Form1. XAxis.SetAcc(100);
+                        Form1.XAxis.SetVel(100);
+                        Form1.XAxis.SetAcc(100);
                         Form1.XAxis.SetDec(100);
 
                         Form1.YAxis.SetPos(ypos);
@@ -162,7 +169,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
                 }
                 else
                 {
-                    for (int ypos = 149; ypos >=0; ypos--)
+                    for (int ypos = 149; ypos >= 0; ypos--)
                     {
                         Form1.XAxis.SetPos(xpos);
                         Form1.XAxis.SetVel(100);
@@ -181,8 +188,6 @@ namespace XYSTAGE_SYSTEM_DESIGN
                     }
                 }
             }
-
-
         }
     }
 }

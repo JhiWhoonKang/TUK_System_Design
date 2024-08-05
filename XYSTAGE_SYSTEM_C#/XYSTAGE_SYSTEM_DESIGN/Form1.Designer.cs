@@ -35,17 +35,15 @@
             this.bt_connect = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.bt_Graph = new System.Windows.Forms.Button();
-            this.bt_stop = new System.Windows.Forms.Button();
             this.bt_Normal_Move = new System.Windows.Forms.Button();
             this.tb_Normal_Move_YPos = new System.Windows.Forms.TextBox();
             this.tb_Normal_Move_XPos = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.rb_Line = new System.Windows.Forms.RadioButton();
+            this.rb_PTP = new System.Windows.Forms.RadioButton();
             this.rb_CAM = new System.Windows.Forms.RadioButton();
             this.rb_PM = new System.Windows.Forms.RadioButton();
-            this.rb_PTP = new System.Windows.Forms.RadioButton();
             this.rb_CP = new System.Windows.Forms.RadioButton();
             this.gb_xGroup = new System.Windows.Forms.GroupBox();
             this.bt_xEstop_Clr = new System.Windows.Forms.Button();
@@ -182,13 +180,12 @@
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Silver;
             this.groupBox2.Controls.Add(this.bt_Graph);
-            this.groupBox2.Controls.Add(this.bt_stop);
             this.groupBox2.Controls.Add(this.bt_Normal_Move);
             this.groupBox2.Controls.Add(this.tb_Normal_Move_YPos);
             this.groupBox2.Controls.Add(this.tb_Normal_Move_XPos);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.label1);
-            this.groupBox2.Location = new System.Drawing.Point(202, 40);
+            this.groupBox2.Location = new System.Drawing.Point(268, 40);
             this.groupBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
@@ -202,22 +199,11 @@
             this.bt_Graph.Location = new System.Drawing.Point(80, 85);
             this.bt_Graph.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.bt_Graph.Name = "bt_Graph";
-            this.bt_Graph.Size = new System.Drawing.Size(63, 31);
+            this.bt_Graph.Size = new System.Drawing.Size(133, 31);
             this.bt_Graph.TabIndex = 6;
-            this.bt_Graph.Text = "그리기";
+            this.bt_Graph.Text = "STAGE 그리기";
             this.bt_Graph.UseVisualStyleBackColor = true;
             this.bt_Graph.Click += new System.EventHandler(this.bt_Graph_Click);
-            // 
-            // bt_stop
-            // 
-            this.bt_stop.Location = new System.Drawing.Point(150, 85);
-            this.bt_stop.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.bt_stop.Name = "bt_stop";
-            this.bt_stop.Size = new System.Drawing.Size(63, 31);
-            this.bt_stop.TabIndex = 5;
-            this.bt_stop.Text = "Stop";
-            this.bt_stop.UseVisualStyleBackColor = true;
-            this.bt_stop.Click += new System.EventHandler(this.bt_stop_Click);
             // 
             // bt_Normal_Move
             // 
@@ -269,31 +255,30 @@
             // groupBox3
             // 
             this.groupBox3.BackColor = System.Drawing.Color.Silver;
-            this.groupBox3.Controls.Add(this.rb_Line);
+            this.groupBox3.Controls.Add(this.rb_PTP);
             this.groupBox3.Controls.Add(this.rb_CAM);
             this.groupBox3.Controls.Add(this.rb_PM);
-            this.groupBox3.Controls.Add(this.rb_PTP);
             this.groupBox3.Controls.Add(this.rb_CP);
-            this.groupBox3.Location = new System.Drawing.Point(446, 84);
+            this.groupBox3.Location = new System.Drawing.Point(511, 84);
             this.groupBox3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.groupBox3.Size = new System.Drawing.Size(225, 95);
+            this.groupBox3.Size = new System.Drawing.Size(160, 95);
             this.groupBox3.TabIndex = 3;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "동작모드";
             // 
-            // rb_Line
+            // rb_PTP
             // 
-            this.rb_Line.AutoSize = true;
-            this.rb_Line.Location = new System.Drawing.Point(153, 25);
-            this.rb_Line.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.rb_Line.Name = "rb_Line";
-            this.rb_Line.Size = new System.Drawing.Size(55, 19);
-            this.rb_Line.TabIndex = 4;
-            this.rb_Line.TabStop = true;
-            this.rb_Line.Text = "Line";
-            this.rb_Line.UseVisualStyleBackColor = true;
+            this.rb_PTP.AutoSize = true;
+            this.rb_PTP.Location = new System.Drawing.Point(86, 26);
+            this.rb_PTP.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.rb_PTP.Name = "rb_PTP";
+            this.rb_PTP.Size = new System.Drawing.Size(56, 19);
+            this.rb_PTP.TabIndex = 4;
+            this.rb_PTP.TabStop = true;
+            this.rb_PTP.Text = "PTP";
+            this.rb_PTP.UseVisualStyleBackColor = true;
             // 
             // rb_CAM
             // 
@@ -319,18 +304,6 @@
             this.rb_PM.TabStop = true;
             this.rb_PM.Text = "PM";
             this.rb_PM.UseVisualStyleBackColor = true;
-            // 
-            // rb_PTP
-            // 
-            this.rb_PTP.AutoSize = true;
-            this.rb_PTP.Location = new System.Drawing.Point(82, 25);
-            this.rb_PTP.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.rb_PTP.Name = "rb_PTP";
-            this.rb_PTP.Size = new System.Drawing.Size(56, 19);
-            this.rb_PTP.TabIndex = 1;
-            this.rb_PTP.TabStop = true;
-            this.rb_PTP.Text = "PTP";
-            this.rb_PTP.UseVisualStyleBackColor = true;
             // 
             // rb_CP
             // 
@@ -1176,7 +1149,6 @@
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.RadioButton rb_CAM;
         private System.Windows.Forms.RadioButton rb_PM;
-        private System.Windows.Forms.RadioButton rb_PTP;
         private System.Windows.Forms.RadioButton rb_CP;
         private System.Windows.Forms.GroupBox gb_xGroup;
         public System.Windows.Forms.Button bt_xServoOn;
@@ -1214,7 +1186,7 @@
         public System.Windows.Forms.TextBox tb_PM_num;
         private System.Windows.Forms.GroupBox groupBox11;
         private System.Windows.Forms.GroupBox groupBox13;
-        private System.Windows.Forms.RadioButton rb_Line;
+        private System.Windows.Forms.RadioButton rb_PTP;
         private System.Windows.Forms.GroupBox groupBox7;
         public System.Windows.Forms.Button bt_yServoOn;
         private System.Windows.Forms.Button bt_yAlarmClr;
@@ -1245,7 +1217,6 @@
         private System.Windows.Forms.Label lb_connect_state;
         private System.Windows.Forms.GroupBox groupBox14;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button bt_stop;
         private System.Windows.Forms.Button bt_Graph;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Button bt_xEstop_Clr;
