@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <GVL Name="GVL" Id="{303f0213-2c9e-4d14-9329-5a96b84f8b4c}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+			AxisX : AXIS_REF;
+			AxisY : AXIS_REF;
+			
+			//Moter Power	
+			AxisX_Power_Fuc : MC_Power;
+			AxisY_Power_Fuc : MC_Power;
+					
+			OnMoterX : BOOL;
+			OnMoterY : BOOL;
+			
+			//***************Stop***********//
+			X_Stop : MC_Stop;
+			X_Stop_EX :BOOL :=FALSE;
+			Y_Stop : MC_Stop;
+			Y_Stop_EX :BOOL :=FALSE;
+			//**************Jog***********//
+			
+			X_Jog : MC_Jog;
+			Y_Jog : MC_Jog;
+			X_FW : BOOL :=FALSE;
+			X_BW : BOOL :=FALSE;
+			//**************Pos_Offset_Clear***********//
+			
+			X_Pos_Offset_EX  : BOOL :=FALSE;
+			Y_Pos_Offset_EX : BOOL :=FALSE;
+			
+			
+			//***************Moter Move***************//
+			AxisX_AbMove_Fuc :MC_MoveAbsolute;
+			AxisY_AbMove_Fuc :MC_MoveAbsolute;
+			
+			//Moter GetVelocity
+			X_GetVel: MC_ReadActualVelocity;
+   			Y_GetVel: MC_ReadActualVelocity;
+			X_Vel  : LREAL;
+			Y_Vel  : LREAL;	
+			
+			//Moter GetPosition
+			X_GetPos :MC_ReadActualPosition;
+			Y_GetPos :MC_ReadActualPosition;
+	  		X_Pos : LREAL;	  	  
+	  		Y_Pos : LREAL;
+			
+			//Input
+			X_Command_Vel : LREAL := 200;     
+			X_Command_Acc : LREAL :=200;
+			X_Command_Dec : LREAL :=200;
+			X_AbMove_Ex : BOOL := FALSE;
+			X_Command_Pos : LREAL :=0;
+			
+			Y_Command_Vel : LREAL := 200;     
+			Y_Command_Acc : LREAL := 200;
+			Y_Command_Dec : LREAL := 200;
+			Y_AbMove_Ex : BOOL := FALSE;
+			Y_Command_Pos : LREAL := 0;
+			
+				
+			//Output
+			X_Busy : BOOL;
+			Y_Busy : BOOL;
+			
+			X_Error :BOOL;
+			Y_Error :BOOL;
+			
+			X_ErrorID :UDINT;
+			Y_ErrorID :UDINT;
+			
+			X_Done : BOOL;
+			Y_Done : BOOL;	
+		 //***************Moter Move End***************//
+			
+		//PID 
+			
+       		 fbCoEReadP_X:FB_CoERead;
+			fbCoEReadI_X:FB_CoERead;
+			fbCoEReadD_X:FB_CoERead;
+			
+			fbCoEReadP_Y:FB_CoERead;
+			fbCoEReadI_Y:FB_CoERead;
+			fbCoEReadD_Y:FB_CoERead;
+			
+			fbCoERead_Y:FB_CoERead;
+			
+			Index: WORD :=16#3100; 
+			X_Gain: WORD :=400 ;
+			Y_Gain: WORD :=400 ;
+			X_COE_Ex :BOOL :=FALSE;
+			Y_COE_Ex :BOOL :=FALSE;
+			CompleteAccess: BOOL := FALSE; 
+   			Success: BOOL; 
+			
+			X_GetP_Gain : WORD;
+			X_GetI_Gain : WORD;
+			X_GetD_Gain : WORD;
+			X_CoERead_EX  :BOOL:=TRUE;
+			
+			Y_GetP_Gain : WORD;
+			Y_GetI_Gain : WORD;
+			Y_GetD_Gain : WORD;
+			Y_CoERead_EX  :BOOL:=TRUE;
+			//PID End
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>

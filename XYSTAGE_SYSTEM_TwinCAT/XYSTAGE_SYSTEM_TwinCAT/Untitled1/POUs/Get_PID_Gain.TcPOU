@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.13">
+  <POU Name="Get_PID_Gain" Id="{e48642cc-757f-4411-82dd-a5dfa691a4ab}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION Get_PID_Gain : bool
+VAR_INPUT
+END_VAR
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[GVL.fbCoEReadP_X(
+		Axis :=GVL.AxisX,		
+		NetId := '169.254.80.96.1.1',   //target NetID 
+  		Index := 16#3100,
+  		pDstBuf := ADR(GVL.X_GetP_Gain), 
+  		BufLen := SIZEOF(GVL.X_GetP_Gain), 
+  		Execute := GVL.X_CoERead_EX, 
+  		Timeout := T#1S, 	
+	);	
+GVL.fbCoEReadD_X(
+		Axis :=GVL.AxisX,		
+		NetId := '169.254.80.96.1.1', 
+  		Index := 16#3101,
+  		pDstBuf := ADR(GVL.X_GetD_Gain), 
+  		BufLen := SIZEOF(GVL.X_GetD_Gain), 
+  		Execute := GVL.X_CoERead_EX, 
+  		Timeout := T#1S, 	
+		
+	);	
+GVL.fbCoEReadI_X(
+		Axis :=GVL.AxisX,		
+		NetId := '169.254.80.96.1.1', 
+  		Index := 16#3102,
+  		pDstBuf := ADR(GVL.X_GetI_Gain), 
+  		BufLen := SIZEOF(GVL.X_GetI_Gain), 
+  		Execute := GVL.X_CoERead_EX, 
+  		Timeout := T#1S, 	
+	);	
+GVL.X_CoERead_EX := FALSE;
+	
+GVL.fbCoEReadP_Y(
+		Axis :=GVL.AxisY,		
+		NetId := '169.254.80.96.1.1', 
+  		Index := 16#3100,
+  		pDstBuf := ADR(GVL.Y_GetP_Gain), 
+  		BufLen := SIZEOF(GVL.Y_GetP_Gain), 
+  		Execute := GVL.Y_CoERead_EX, 
+  		Timeout := T#1S, 	
+	);	
+GVL.fbCoEReadD_Y(
+		Axis :=GVL.AxisY,		
+		NetId := '169.254.80.96.1.1', 
+  		Index := 16#3101,
+  		pDstBuf := ADR(GVL.Y_GetD_Gain), 
+  		BufLen := SIZEOF(GVL.Y_GetD_Gain), 
+  		Execute := GVL.Y_CoERead_EX, 
+  		Timeout := T#1S, 	
+		
+	);	
+GVL.fbCoEReadI_Y(
+		Axis :=GVL.AxisY,		
+		NetId := '169.254.80.96.1.1', 
+  		Index := 16#3102,
+  		pDstBuf := ADR(GVL.Y_GetI_Gain), 
+  		BufLen := SIZEOF(GVL.X_GetI_Gain), 
+  		Execute := GVL.Y_CoERead_EX, 
+  		Timeout := T#1S, 	
+	);	
+GVL.Y_CoERead_EX := FALSE;]]></ST>
+    </Implementation>
+    <LineIds Name="Get_PID_Gain">
+      <LineId Id="8" Count="57" />
+      <LineId Id="7" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>

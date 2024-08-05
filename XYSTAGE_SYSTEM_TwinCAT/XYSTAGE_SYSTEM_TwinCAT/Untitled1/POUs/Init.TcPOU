@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <POU Name="Init" Id="{ff789f16-8be0-45f8-8417-f0b82ef6843e}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION Init : BOOL
+VAR_INPUT
+END_VAR
+VAR
+	IsComplete : BOOL;
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[
+GVL.X_Stop(
+	 Axis := GVL.AxisX,
+	 Execute :=GVL.X_Stop_EX
+);
+
+GVL.Y_Stop(
+	 Axis := GVL.AxisY,
+	 Execute :=GVL.Y_Stop_EX
+);
+
+GVL.X_Jog(
+
+    Axis := GVL.AxisX,
+
+    JogForward := GVL.X_FW,
+
+    JogBackwards := GVL.X_BW,
+
+    Position := 50,
+
+    Velocity := 500,
+
+    Mode := E_JogMode.MC_JOGMODE_INCHING
+);
+
+
+
+GVL.AxisX_Power_Fuc(
+			Axis := GVL.AxisX,
+			Enable_Negative :=TRUE,
+			Enable_Positive := TRUE,
+			Override := 100,
+			Enable :=GVL.OnMoterX
+			);	
+			
+GVL.AxisY_Power_Fuc(
+			Axis := GVL.AxisY,
+			Enable_Negative :=TRUE,
+			Enable_Positive := TRUE,
+			Override := 100,
+			Enable :=GVL.OnMoterY
+			);	
+			
+GVL.AxisX_AbMove_Fuc(
+	Axis := GVL.AxisX,
+	Acceleration := GVL.X_Command_Acc,
+	Velocity := GVL.X_Command_Vel,
+	Deceleration := GVL.X_Command_Dec,
+	Position :=GVL.X_Command_Pos,
+	Busy => GVL.X_Busy,
+	Done => GVL.X_Done
+	);
+	
+GVL.AxisY_AbMove_Fuc(
+	Axis := GVL.AxisY,
+	Acceleration := GVL.Y_Command_Acc,
+	Velocity := GVL.Y_Command_Vel,
+	Deceleration := GVL.Y_Command_Dec,
+	Position :=GVL.Y_Command_Pos,
+	Busy => GVL.Y_Busy,
+	Error => GVL.Y_Error,
+	ErrorID => GVL.Y_ErrorID,
+	);
+	
+// Get Velocity and Position for PID Graph // 
+GVL.X_GetVel(
+	Axis :=GVL.AxisX,
+	Enable := TRUE,
+	ActualVelocity =>GVL.X_Vel
+	);
+GVL.Y_GetVel(
+	Axis :=GVL.AxisY,
+	Enable := TRUE,
+	ActualVelocity =>GVL.Y_Vel
+	);
+GVL.X_GetPos(
+	Axis := GVL.AxisX,
+	Enable := TRUE,
+	Position => GVL.X_Pos,
+	);
+GVL.Y_GetPos(
+	Axis := GVL.AxisY,
+	Enable := TRUE,
+	Position => GVL.Y_Pos,
+	);]]></ST>
+    </Implementation>
+    <LineIds Name="Init">
+      <LineId Id="83" Count="0" />
+      <LineId Id="110" Count="0" />
+      <LineId Id="112" Count="0" />
+      <LineId Id="114" Count="0" />
+      <LineId Id="111" Count="0" />
+      <LineId Id="116" Count="3" />
+      <LineId Id="115" Count="0" />
+      <LineId Id="120" Count="0" />
+      <LineId Id="95" Count="12" />
+      <LineId Id="109" Count="0" />
+      <LineId Id="93" Count="0" />
+      <LineId Id="77" Count="0" />
+      <LineId Id="72" Count="0" />
+      <LineId Id="8" Count="56" />
+      <LineId Id="7" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>

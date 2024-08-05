@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.13">
+  <POU Name="MAIN" Id="{9588304c-dfd3-45ac-885b-69be9d7ec8ec}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM MAIN
+VAR
+		Y_SetZero_Func: MC_SetPosition;
+	
+	    X_SetZero_Func: MC_SetPosition;
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[
+Y_SetZero_Func.Options.ClearPositionOffset :=TRUE;
+Y_SetZero_Func(
+		Axis :=GVL.AxisX,
+		Position := ,
+		Execute := GVL.X_Pos_Offset_EX,
+);
+
+X_SetZero_Func.Options.ClearPositionOffset :=TRUE;
+X_SetZero_Func(
+		Axis :=GVL.AxisY,
+		Position := ,
+		Execute := GVL.Y_Pos_Offset_EX,
+);
+
+
+Init();
+Get_PID_Gain();
+
+
+GVL.AxisX_Power_Fuc.Enable := GVL.OnMoterX;
+GVL.AxisY_Power_Fuc.Enable := GVL.OnMoterY;
+
+
+
+GVL.AxisX_AbMove_Fuc.Execute := GVL.X_AbMove_Ex;
+
+IF NOT GVL.X_Busy THEN	
+	GVL.X_AbMove_Ex := FALSE;
+END_IF
+
+
+
+GVL.AxisY_AbMove_Fuc.Execute := GVL.Y_AbMove_Ex;
+IF NOT GVL.Y_Busy THEN	
+	GVL.Y_AbMove_Ex := FALSE;
+END_IF
+
+
+]]></ST>
+    </Implementation>
+    <LineIds Name="MAIN">
+      <LineId Id="9" Count="38" />
+      <LineId Id="2" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>
