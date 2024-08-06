@@ -14,9 +14,9 @@
 필자 개발 환경2
 |구성 요소|상세 스펙(Spec)|
 |---|---|
-|운영체제(OS)|**Windows10**|
-|그래픽 카드(GPU)|**NVIDIA GeForce RTX 3070**|
-|카메라|**Intel® RealSense™ depth camera D435i**|
+|운영체제(OS)|**Windows11**|
+|그래픽 카드(GPU)|**ㅁ**|
+|카메라|**ㅁ**|
 
 
 사용 중 오류가 발생할 경우 kangjw0914@naver.com 또는 1208cksals@naver.com 그리고 Issues를 활용해주시길 바랍니다.
