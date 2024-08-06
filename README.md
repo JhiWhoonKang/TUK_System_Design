@@ -18,18 +18,20 @@
 |그래픽 카드(GPU)|**ㅁ**|
 |카메라|**ㅁ**|
 
-
-사용 중 오류가 발생할 경우 kangjw0914@naver.com 또는 1208cksals@naver.com 그리고 Issues를 활용해주시길 바랍니다.
+강의 참고자료는 [wiki](https://github.com/JhiWhoonKang/TUK_System_Design/wiki)에서 쉽게 이용할 수 있습니다.
 
 ## 목차
 - [강의 참고자료 관련](#강의-참고자료-관련)  
 - [1. 강의 참고자료 사용 방법](#강의-참고자료-사용-방법)  
 - [2. C#](#csharp)  
 - [3. OpenCV](#opencv)  
-- [4. Stage UI](#stage-ui)  
+- [4. Stage UI](#stage-ui)
 
 
 ## 강의 참고자료 관련
+위 강의자료는 단순 참고 자료일 뿐, 사용자 편의에 맞게 코드를 수정하여 사용해도 좋습니다
+<br>사용 중 오류가 발생할 경우 kangjw0914@naver.com 또는 1208cksals@naver.com 그리고 Issues를 활용해주시길 바랍니다.
+- Issues 작성시 최대한 빠른 피드백을 위해 템플릿에 맞춰 올려주면 감사합니다.
 <div align="right">  
   
 [목차로](#목차)
@@ -206,7 +208,7 @@ Codename:       focal
 
 ### 모델 불러오는 과정 예시
 *학습된 모델 불러오는 것을 권장*
-**ssd_mobilenet_v1_coco 모델을 다운로드하고 사용하는 예제**
+<br>**ssd_mobilenet_v1_coco 모델을 다운로드하고 사용하는 예제**
 
 1. 원하는 모델 사이트 접속
 ```bash
@@ -261,7 +263,7 @@ jhiwhoon@JhiWhoon:~$ ls
 ssd_mobilenet_v1_coco_2018_01_28  ssd_mobilenet_v1_coco_2018_01_28.tar.gz
 ```
 7. cd 명령어 활용 압축 해제한 디렉토리로 이동
-*cd(Change Directory): 디렉토리 변경 명령어*
+<br> - *cd(Change Directory): 디렉토리 변경 명령어*
 ```bash
 cd ~/<경로>
 ```
@@ -285,8 +287,11 @@ explorer.exe .
 jhiwhoon@JhiWhoon:~/ssd_mobilenet_v1_coco_2018_01_28$ explorer.exe .
 ```
 
+위 사이트 이외에도 [kaggle](https://www.kaggle.com/) 등 다양한 사이트 존재
+<br> 따라서 사용 목적에 맞는 사이트에서 다운받아 사용하면 됨
+
 ***추가적인 기능***
-*특정 확장자 검색*
+<br>*특정 확장자 검색*
 ```bash
 find ~ -name "*<확장자>"
 ```
