@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|c:\\jhiwhoon_ws\\github_ws\\tuk_system_design\\termproject\\termptest\\mainvideoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|solutionrelative:mainvideoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|c:\\jhiwhoon_ws\\github_ws\\tuk_system_design\\termproject\\termptest\\define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|solutionrelative:define.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|c:\\jhiwhoon_ws\\github_ws\\tuk_system_design\\termproject\\termptest\\mainvideoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|solutionrelative:mainvideoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|c:\\jhiwhoon_ws\\github_ws\\tuk_system_design\\termproject\\termptest\\contourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|solutionrelative:contourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|c:\\jhiwhoon_ws\\github_ws\\tuk_system_design\\termproject\\termptest\\contourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|solutionrelative:contourform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|c:\\jhiwhoon_ws\\github_ws\\tuk_system_design\\termproject\\termptest\\mainvideoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A56BE0-43E5-4DC1-BBC3-8CAEEC92D230}|TermpTest.csproj|solutionrelative:mainvideoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainVideoForm.Designer.cs",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\MainVideoForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainVideoForm.Designer.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\MainVideoForm.Designer.cs",
+              "RelativeToolTip": "MainVideoForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:43:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainVideoForm.cs",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\MainVideoForm.cs",
+              "RelativeDocumentMoniker": "MainVideoForm.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\MainVideoForm.cs",
+              "RelativeToolTip": "MainVideoForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:21:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainVideoForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\MainVideoForm.cs",
+              "RelativeDocumentMoniker": "MainVideoForm.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\MainVideoForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainVideoForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:21:21.863Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Define.cs",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\Define.cs",
+              "RelativeDocumentMoniker": "Define.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\Define.cs",
+              "RelativeToolTip": "Define.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:32:41.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContourForm.cs",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\ContourForm.cs",
+              "RelativeDocumentMoniker": "ContourForm.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\ContourForm.cs",
+              "RelativeToolTip": "ContourForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:27:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContourForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\ContourForm.cs",
+              "RelativeDocumentMoniker": "ContourForm.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\TUK_System_Design\\TermProject\\TermpTest\\ContourForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ContourForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:27:03.246Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
