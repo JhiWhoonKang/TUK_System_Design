@@ -81,8 +81,8 @@ namespace TermpTest
 
             Cv2.CvtColor(frame, hsv, ColorConversionCodes.BGR2HSV);
 
-            Cv2.InRange(hsv, C_DEFINE.lowerRed1, C_DEFINE.upperRed1, mask1);
-            Cv2.InRange(hsv, C_DEFINE.lowerRed2, C_DEFINE.upperRed2, mask2);
+            Cv2.InRange(hsv, C_DEFINE.LOWER_RED1, C_DEFINE.UPPER_RED1, mask1);
+            Cv2.InRange(hsv, C_DEFINE.LOWER_RED2, C_DEFINE.UPPER_RED2, mask2);
             Cv2.BitwiseOr(mask1, mask2, mask);
 
             // 윤곽선 검출

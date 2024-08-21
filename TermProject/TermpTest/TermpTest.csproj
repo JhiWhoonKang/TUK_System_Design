@@ -77,6 +77,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAM_SET.cs" />
     <Compile Include="ContourForm.cs">
       <SubType>Form</SubType>
     </Compile>
