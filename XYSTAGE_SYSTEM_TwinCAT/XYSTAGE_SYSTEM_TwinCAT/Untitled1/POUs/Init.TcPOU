@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.13">
   <POU Name="Init" Id="{ff789f16-8be0-45f8-8417-f0b82ef6843e}" SpecialFunc="None">
     <Declaration><![CDATA[FUNCTION Init : BOOL
 VAR_INPUT
@@ -9,8 +9,7 @@ VAR
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[
-GVL.X_Stop(
+      <ST><![CDATA[GVL.X_Stop(
 	 Axis := GVL.AxisX,
 	 Execute :=GVL.X_Stop_EX
 );
@@ -19,23 +18,6 @@ GVL.Y_Stop(
 	 Axis := GVL.AxisY,
 	 Execute :=GVL.Y_Stop_EX
 );
-
-GVL.X_Jog(
-
-    Axis := GVL.AxisX,
-
-    JogForward := GVL.X_FW,
-
-    JogBackwards := GVL.X_BW,
-
-    Position := 50,
-
-    Velocity := 500,
-
-    Mode := E_JogMode.MC_JOGMODE_INCHING
-);
-
-
 
 GVL.AxisX_Power_Fuc(
 			Axis := GVL.AxisX,
@@ -97,18 +79,12 @@ GVL.Y_GetPos(
 	);]]></ST>
     </Implementation>
     <LineIds Name="Init">
-      <LineId Id="83" Count="0" />
       <LineId Id="110" Count="0" />
       <LineId Id="112" Count="0" />
       <LineId Id="114" Count="0" />
       <LineId Id="111" Count="0" />
       <LineId Id="116" Count="3" />
       <LineId Id="115" Count="0" />
-      <LineId Id="120" Count="0" />
-      <LineId Id="95" Count="12" />
-      <LineId Id="109" Count="0" />
-      <LineId Id="93" Count="0" />
-      <LineId Id="77" Count="0" />
       <LineId Id="72" Count="0" />
       <LineId Id="8" Count="56" />
       <LineId Id="7" Count="0" />

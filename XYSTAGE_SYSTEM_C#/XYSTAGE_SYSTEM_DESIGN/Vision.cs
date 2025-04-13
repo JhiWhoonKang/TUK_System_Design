@@ -23,9 +23,9 @@ namespace XYSTAGE_SYSTEM_DESIGN
         IplImage templit;
         int cnt = 0;
 
-        CTwincat XAxis;
-        CTwincat YAxis;
-        Form1 form1;
+        CTwinCAT XAxis;
+        CTwinCAT YAxis;
+        XYStageUI form1;
 
         CvSeq<CvCircleSegment> circles;
 
@@ -35,7 +35,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
             InitializeComponent();
         }
 
-        public Vision(Form1 form1)
+        public Vision(XYStageUI form1)
         {
             InitializeComponent();
             this.form1=form1;
@@ -87,8 +87,8 @@ namespace XYSTAGE_SYSTEM_DESIGN
                
                 if(cnt>=10)
                 {
-                    Form1.XAxis.Excute_Disable();
-                    Form1.YAxis.Excute_Disable();
+                    XYStageUI.XAxis.Excute_Disable();
+                    XYStageUI.YAxis.Excute_Disable();
                     form1.thread_flag = 1;
 
                         flag = 1;
@@ -151,18 +151,18 @@ namespace XYSTAGE_SYSTEM_DESIGN
                     for (int ypos = 0; ypos <= 150; ypos++)
                     {
 
-                        Form1.XAxis.SetPos(xpos);
-                        Form1.XAxis.SetVel(100);
-                        Form1.XAxis.SetAcc(100);
-                        Form1.XAxis.SetDec(100);
+                        XYStageUI.XAxis.SetPos(xpos);
+                        XYStageUI.XAxis.SetVel(100);
+                        XYStageUI.XAxis.SetAcc(100);
+                        XYStageUI.XAxis.SetDec(100);
 
-                        Form1.YAxis.SetPos(ypos);
-                        Form1.YAxis.SetVel(100);
-                        Form1.YAxis.SetAcc(100);
+                        XYStageUI.YAxis.SetPos(ypos);
+                        XYStageUI.YAxis.SetVel(100);
+                        XYStageUI.YAxis.SetAcc(100);
 
 
-                        Form1.XAxis.Excute();
-                        Form1.YAxis.Excute();
+                        XYStageUI.XAxis.Excute();
+                        XYStageUI.YAxis.Excute();
                         if (ypos == 150)
                             flag = 1;
                     }
@@ -171,18 +171,18 @@ namespace XYSTAGE_SYSTEM_DESIGN
                 {
                     for (int ypos = 149; ypos >= 0; ypos--)
                     {
-                        Form1.XAxis.SetPos(xpos);
-                        Form1.XAxis.SetVel(100);
-                        Form1.XAxis.SetAcc(100);
-                        Form1.XAxis.SetAcc(100);
+                        XYStageUI.XAxis.SetPos(xpos);
+                        XYStageUI.XAxis.SetVel(100);
+                        XYStageUI.XAxis.SetAcc(100);
+                        XYStageUI.XAxis.SetAcc(100);
 
-                        Form1.YAxis.SetPos(ypos);
-                        Form1.YAxis.SetVel(100);
-                        Form1.YAxis.SetAcc(100);
+                        XYStageUI.YAxis.SetPos(ypos);
+                        XYStageUI.YAxis.SetVel(100);
+                        XYStageUI.YAxis.SetAcc(100);
 
 
-                        Form1.XAxis.Excute();
-                        Form1.YAxis.Excute();
+                        XYStageUI.XAxis.Excute();
+                        XYStageUI.YAxis.Excute();
                         if (ypos == 0)
                             flag = 0;
                     }

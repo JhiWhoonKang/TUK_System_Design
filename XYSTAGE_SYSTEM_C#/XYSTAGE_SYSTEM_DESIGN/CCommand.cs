@@ -15,13 +15,13 @@ namespace XYSTAGE_SYSTEM_DESIGN
 {
     public class CCommand
     {
-        public CTwincat X_Axis;
-        public CTwincat Y_Axis;
-        public Form1 form1;
+        public CTwinCAT X_Axis;
+        public CTwinCAT Y_Axis;
+        public XYStageUI form1;
         List<CAxisParameter> Axis_Para_list;
         
 
-        public CCommand(CTwincat x, CTwincat y)             //생성자
+        public CCommand(CTwinCAT x, CTwinCAT y)             //생성자
         {
             X_Axis = x;
             Y_Axis = y;
@@ -68,7 +68,7 @@ namespace XYSTAGE_SYSTEM_DESIGN
             if(Axis_Para_list.Count>0) Axis_Para_list.Clear(); 
         }
 
-        public void Set_DrawForm(Form1 form)
+        public void Set_DrawForm(XYStageUI form)
         {
             form1 = form;
         }
